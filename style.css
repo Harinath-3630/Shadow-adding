@@ -1,0 +1,12 @@
+#para{
+    font-size: 60px;
+    color: blue;
+    text-shadow: 3px 3px  green;
+}
+#newdiv{
+    background-color: blanchedalmond;
+    width: 400px;
+    height: 400px;
+    margin: 100px;
+    box-shadow: 3px 3px black;
+}
